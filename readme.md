@@ -1,8 +1,3 @@
-Here is a complete, production-ready `README.md` file tailored specifically for your project. It includes the updated architecture (PyMuPDF + EasyOCR + Ollama), structural design choices, precise installation commands for Windows/Linux/macOS, and user validation mechanics.
-
-You can save the block below as a file named `README.md` in the root folder of your project repository.
-
----
 
 ```markdown
 # 🤖 Intelligent Document Processing & Generalized OCR Engine
